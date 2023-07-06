@@ -1,0 +1,83 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "multi",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "multipleTwoNo",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"udemyToturial/functi.sol": "learningsol"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"udemyToturial/functi.sol": {
+			"keccak256": "0x9c90c9e7cee83158b9d302380a69bfec20fd433b7a4f74055f0a0bf8f1246e42",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b0e6cb5a5ee28f8ad6593bde687cce2eed0cece5a4dc71a709ce0dafb15980a6",
+				"dweb:/ipfs/QmTM2gQ9XUCKEtYto6Rj1DV5EbugJrq7Xg7atgc86trUjp"
+			]
+		}
+	},
+	"version": 1
+}

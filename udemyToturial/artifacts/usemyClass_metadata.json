@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"udemyToturial/class1.sol": "usemyClass"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"udemyToturial/class1.sol": {
+			"keccak256": "0xc3e22ba3b5fab91ae8c16d12e2b90e3a8afc231c357b1297da63d4d5e1b9d3f6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://26f2ea1ec5baeb17e219ce02bbca0400c236d0cfd78e1ec73920b269baafaaad",
+				"dweb:/ipfs/QmVG32LQj8Sn8mnmUtDBLCQ4NmVfAzVUi2ABLheQaAXt8o"
+			]
+		}
+	},
+	"version": 1
+}
