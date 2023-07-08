@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "finalize",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"udemyToturial/finaloperatorexercise.sol": "finalop"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"udemyToturial/finaloperatorexercise.sol": {
+			"keccak256": "0x7d32c399e5a2016aa8f82d9fc2de654b730f271dfad7cc04cde5272c8e2ede32",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cb11c3c9cb166d962d561daddd1750ee9dbfb0661de9a3fc52347d929451bf12",
+				"dweb:/ipfs/QmdrY2zWm1Lnh2Tq6aRwVZ6S8yyrX3NqhQ4W34gjq41mbx"
+			]
+		}
+	},
+	"version": 1
+}

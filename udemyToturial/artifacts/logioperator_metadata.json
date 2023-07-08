@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.12+commit.f00d7308"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "assignment",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "logicfunction",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"udemyToturial/logicaloperator.sol": "logioperator"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"udemyToturial/logicaloperator.sol": {
+			"keccak256": "0xe532782d22d0432434676c93d22b2265d6b9df27ae982f1b10ca27f0bd2b96c9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8d0d0c4378f039a163a80d24db8e7a72d1b54869571935f75bebe3bed6a364d1",
+				"dweb:/ipfs/QmWxjdYMY9nw6G6UNjwvcgcd7xTF3e7cpwzzAohGYJKc9s"
+			]
+		}
+	},
+	"version": 1
+}
