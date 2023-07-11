@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "x",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "y",
+						"type": "uint256"
+					}
+				],
+				"name": "dividebyzro",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"divideByZero/module.sol": "dividezero"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"divideByZero/module.sol": {
+			"keccak256": "0x52d4d5c575c3f95c9ab8631ad6d873b1f5705ad367d028dbcf57862d988a42ab",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://245d00a108a0e98f430219663937ab9806631fade73a6e9ee525faa5e1811c71",
+				"dweb:/ipfs/QmatcPgzP1T2yFYVuqAsvVVS4HXy3qgHVt1BWMA3n1QCRh"
+			]
+		}
+	},
+	"version": 1
+}

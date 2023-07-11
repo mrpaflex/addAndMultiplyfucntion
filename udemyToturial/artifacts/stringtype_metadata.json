@@ -1,0 +1,89 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getLength",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "returnGreet",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "NewGreet",
+						"type": "string"
+					}
+				],
+				"name": "updateGreet",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {
+				"getLength()": {
+					"notice": "now the reason is because of gas.. too much gas will be needed to get the length"
+				}
+			},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"udemyToturial/stringType.sol": "stringtype"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"udemyToturial/stringType.sol": {
+			"keccak256": "0xc0b8da22ce957906a98e56637f23872273a9efa255b1105914536085a5b3b1a7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a2840dfcab8695f31e806dc293020c27305d6bf1d0b7545faf1ddb4e2fd7ea97",
+				"dweb:/ipfs/QmPhHEQq5LJvWvcAy3yMNVvNP1KA1hrG153aPKJfAtNGdy"
+			]
+		}
+	},
+	"version": 1
+}
